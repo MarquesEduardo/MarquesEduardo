@@ -36,8 +36,6 @@ Now I aim to amplify my knowledge by working with the most recent tools and tech
 <br>
 <h2 align="left">Stats:</h3>
 <p align="left">
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marqueseduardo" alt="marqueseduardo" /></a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marqueseduardo&show_icons=true&theme=dark&locale=en" alt="marqueseduardo" /></p>
 
