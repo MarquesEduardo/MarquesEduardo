@@ -7,7 +7,7 @@ Now I aim to amplify my knowledge by working with the most recent tools and tech
 
 - 🔭 I’m currently studying on [Alura](https://www.alura.com.br/)
 
-- 🌱 I’m currently learning **Vue.js and Architectures.**
+- 🌱 I’m currently learning **Vue.js** and **Architectures.**
 
 - 👨‍💻 All of my projects are available at [https://marqueseduardo.github.io/my-portfolio/](https://marqueseduardo.github.io/my-portfolio/)
 
