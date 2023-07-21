@@ -11,13 +11,13 @@ Now I aim to amplify my knowledge by working with the most recent tools and tech
 
 - 👨‍💻 All of my projects are available at [https://marqueseduardo.github.io/my-portfolio/](https://marqueseduardo.github.io/my-portfolio/)
 
-- 💬 Languages I speak: **Portuguese and English**
+- 💬 Languages I speak: **Portuguese - Native  /  English - Fluent  /  French - Beginner**
 
 - 📫 How to reach me: **eduardomarques2321@gmail.com**
 
-- 📄 Soft skills: **Communicative, organized and efficient.**
+- 📄 Soft skills: **Teamwork / Adaptability / Time Management / Organization / Communication / Critical Thinking / Fast Learner**
 
-- 📄 Other skills: **Conventional Commits, 5W2H, frontend architectures (BEM, CDD, DRY).** 
+- 📄 Tech skills: **HTML5 / CSS3 / JavaScript / TypeScript / Astro / Wordpress / MySQL / PHP / Laravel / Bootstrap / Vue3 / TailwindCSS / Es2023+ / Sass / AWS / Node / Vite / UI / Git / Github / SEO / NPM / Trello / Slack / Figma** 
 
 <br>
 
