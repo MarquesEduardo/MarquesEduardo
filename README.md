@@ -9,7 +9,7 @@ Now I'm focused on increase my knowledge by working with the most recent tools a
 
 - 🌱 I’m currently learning **Vue.js** and **Architectures.**
 
-- 👨‍💻 All of my projects are available at [my portfolio page](https://cogitocode.com.br/projects/)
+- 👨‍💻 All of my projects are available at [my portfolio page](https://cogitocode.com.br/projetos/)
 
 - 💬 Languages I speak: **Portuguese - Native  /  English - Fluent  /  French - Beginner**
 
