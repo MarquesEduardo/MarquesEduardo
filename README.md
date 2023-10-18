@@ -11,12 +11,8 @@ Now I'm focused on increase my knowledge by working with the most recent tools a
 
 - 📫 How to reach me: **eduardomarques2321@gmail.com** 
 
-<br>
+- 📤 Connect with me via<a href="https://linkedin.com/in/eduardopereiramarques" target="blank">LinkedIn</a>
 
-<h2 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eduardopereiramarques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardopereiramarques" height="30" width="40" /></a>
-</p>
 <br>
 <hr/>
 <br>
