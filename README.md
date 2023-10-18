@@ -3,21 +3,13 @@
 
 I am a passionate professional in the world of programming. I started my studies by creating small projects with the help of free open-source learning websites, and learned that there is a world of knowledge to discover.
 
-Now I'm focused on increase my knowledge by working with the most recent tools and technology in the market, like JavaScript, Vue.js and Astro.
-
-- 🔭 I’m currently studying on [Laracasts](https://laracasts.com/)
-
-- 🌱 I’m currently learning **Vue.js** and **Architectures.**
+Now I'm focused on increase my knowledge by working with the most recent tools and technology in the market.
 
 - 👨‍💻 All of my projects are available at [my portfolio page](https://cogitocode.com.br/projetos/)
 
 - 💬 Languages I speak: **Portuguese - Native  /  English - Fluent  /  French - Beginner**
 
-- 📫 How to reach me: **eduardomarques2321@gmail.com**
-
-- 📄 Soft skills: **Teamwork / Adaptability / Time Management / Organization / Communication / Critical Thinking / Fast Learner**
-
-- 📄 Tech skills: **HTML5 / CSS3 / JavaScript / TypeScript / Astro / Wordpress / MySQL / PHP / Laravel / Bootstrap / Vue3 / Pinia / TailwindCSS / Es2023+ / Sass / AWS / Node / Vite / UI / Git / Github / SEO / NPM / Trello / Slack / Figma** 
+- 📫 How to reach me: **eduardomarques2321@gmail.com** 
 
 <br>
 
