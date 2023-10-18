@@ -5,7 +5,7 @@ I am a passionate professional in the world of programming. I started my studies
 
 Now I'm focused on increase my knowledge by working with the most recent tools and technology in the market.
 
-- 👨‍💻 All of my projects are available at [my portfolio page](https://cogitocode.com.br/projetos/)
+- 👨‍💻 All of my projects are available at [my portfolio page](https://eduardomarques.dev/projects/)
 
 - 💬 Languages I speak: **Portuguese - Native  /  English - Fluent  /  French - Beginner**
 
