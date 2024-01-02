@@ -5,11 +5,11 @@ I am a passionate professional in the world of programming. I started my studies
 
 Now I'm focused on increase my knowledge by working with the most recent tools and technology in the market.
 
-- 👨‍💻 All of my projects are available at [my portfolio page](https://eduardomarques.dev/projects/)
+- 👨‍💻 Visit my website at [eduardomarques.dev](https://eduardomarques.dev/)
 
 - 💬 Languages I speak: **Portuguese - Native  /  English - Fluent  /  French - Beginner**
 
-- 📫 How to reach me: **eduardomarques2321@gmail.com** 
+- 📫 How to reach me: **connect@eduardomarques.dev** 
 
 - 📤 Connect with me via <a href="https://linkedin.com/in/eduardopereiramarques" target="blank">LinkedIn</a>
 
