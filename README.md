@@ -9,9 +9,15 @@ Now I'm focused on increase my knowledge by working with the most recent tools a
 
 - 💬 Languages I speak: **Portuguese - Native  /  English - Fluent  /  French - Beginner**
 
+- ⚠️ Noteworthy skills: I've been taking an oratory course to improve my speaking and communication skills for the past 16 years!
+
 - 📫 How to reach me: **connect@eduardomarques.dev** 
 
 - 📤 Connect with me via <a href="https://linkedin.com/in/eduardopereiramarques" target="blank">LinkedIn</a>
+<hr/>
+<h2 align="left">Projects:</h3>
+- [API Integration](https://api-rnm.vercel.app/)
+- [Multi step form](https://multistep-form-liart.vercel.app/#/)
 
 <br>
 <hr/>
