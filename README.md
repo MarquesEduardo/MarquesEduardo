@@ -14,14 +14,14 @@ Now I'm focused on increase my knowledge by working with the most recent tools a
 - 📫 How to reach me: **connect@eduardomarques.dev** 
 
 - 📤 Connect with me via <a href="https://linkedin.com/in/eduardopereiramarques" target="blank">LinkedIn</a>
-<hr/>
+<br>
 <h2 align="left">Projects:</h3>
+
 - [API Integration](https://api-rnm.vercel.app/)
 
 - [Multi step form](https://multistep-form-liart.vercel.app/#/)
 
-<br>
-<hr/>
+
 <br>
 <h2 align="left">Stats:</h3>
 <p align="left">
