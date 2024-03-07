@@ -27,8 +27,8 @@ Now I'm focused on increase my knowledge by working with the most recent tools a
 <p align="left">
 <p>* Notice gaps in my commit history? Try checking out my <a href="https://gitlab.com/MarquesEduardo" target="blank">GitLab</a> during those periods ;)</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marqueseduardo&show_icons=true&theme=dark&locale=en" alt="marqueseduardo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marqueseduardo&show_icons=true&theme=react&locale=en" alt="marqueseduardo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marqueseduardo&theme=dark" alt="marqueseduardo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marqueseduardo&theme=react" alt="marqueseduardo" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marqueseduardo&show_icons=true&theme=dark&locale=en&layout=compact" alt="marqueseduardo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marqueseduardo&show_icons=true&theme=react&locale=en&layout=normal" alt="marqueseduardo" /></p>
