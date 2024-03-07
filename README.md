@@ -11,7 +11,7 @@ Now I'm focused on increase my knowledge by working with the most recent tools a
 
 - ⚠️ Noteworthy skills: I've been taking an oratory course to improve my speaking and communication skills for the past 16 years!
 
-- 📫 How to reach me: **connect@eduardomarques.dev** 
+- 📫 How to reach me: connect@eduardomarques.dev
 
 - 📤 Connect with me via <a href="https://linkedin.com/in/eduardopereiramarques" target="blank">LinkedIn</a>
 <br>
