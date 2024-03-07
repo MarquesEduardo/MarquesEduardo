@@ -1,5 +1,5 @@
 <h1 align="center">Hello There! I'm Eduardo Marques</h1>
-<h3 align="center">and I am a web developer from Brazil.</h3>
+<h3 align="center">and I am a Software Engineer from Brazil.</h3>
 
 I am a passionate professional in the world of programming. I started my studies by creating small projects with the help of free open-source learning websites, and learned that there is a world of knowledge to discover.
 
